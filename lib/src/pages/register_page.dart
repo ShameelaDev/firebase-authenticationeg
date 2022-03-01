@@ -97,7 +97,7 @@ class _FormPageState extends State<FormPage> {
                     decoration: InputDecoration(
                         icon: const Icon(Icons.phone),
                         labelText: "Enter your mobile no",
-                        hintText: "+91 000000000",
+                        hintText: "+91 0000000000",
                         border: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(16))),
                   ),
